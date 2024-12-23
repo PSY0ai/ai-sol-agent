@@ -2,6 +2,8 @@
 
 # PSY Solana Agent Kit
 
+<small>powered by Solana Agent Kit</small>
+
 </div>
 
 
